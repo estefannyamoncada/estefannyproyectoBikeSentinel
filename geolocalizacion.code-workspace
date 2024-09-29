@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../geolocalizacion"
+		},
+		{
+			"path": "../loginyregistrousuario"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
